@@ -1,0 +1,30 @@
+/********/
+/* LOGO */
+/********/
+
+	.logo-text-svg {
+		mask: url("../assets/logos/cbjarne_logo_1.svg#textClip");
+		-webkit-mask: url("../../../assets/logos/bjarne_logo_1.svg");
+		-webkit-mask-repeat: no-repeat;
+		background: no-repeat;
+	}
+
+	.logo-svg {
+		mask: url("../assets/logos/bjarne_logo_10.svg");
+		-webkit-mask: url("../../../assets/logos/bjarne_logo_10.svg");
+		-webkit-mask-position: 1em 1em;
+		-webkit-mask-size: 30em;
+		-webkit-mask-repeat: no-repeat;
+		background-repeat: no-repeat;
+	}
+
+	.video-fill {
+		position: absolute;
+		z-index: 10;
+		pointer-events: auto;
+		margin: 0 auto;
+		padding: 0;
+		background: transparent;
+		left: 0;
+		right: 0;
+	}
