@@ -1050,7 +1050,7 @@ body.filmdetail .header-logo.is-visible {
 
 /* line 57, ../../resources/sass/style.scss */
 .svg .header-logo {
-  background-image: url("../assets/images/lyfe_online_logo_black.svg");
+  background-image: url("../assets/images/internet_famous_logo_black.svg");
 }
 
 /* line 61, ../../resources/sass/style.scss */
@@ -1062,7 +1062,7 @@ body.filmdetail .header-logo.is-visible {
   top: 1.4em;
   left: 2.8em;
   z-index: 1;
-  background-image: url("../assets/images/lyfe_online_logo_black.png");
+  background-image: url("../assets/images/internet_famous_logo_black.png");
   background-size: 100%;
   background-repeat: no-repeat;
 }
